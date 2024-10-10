@@ -1,0 +1,14 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Cyano-genesis"
+
+[params]
+displayName = "EN"
+isoCode = "en"
+rtl = false
+description = "Cyano's record of projects, thoughts, and other random stuff."
+dateFormat = "2 January 2006"
+author = { name = "Cyano", headline = "Researcher, Maker, Gamer, Casual Programmer", bio = "Maintainer." }
+
+
