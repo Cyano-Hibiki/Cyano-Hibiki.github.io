@@ -1,59 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Cyano-genesis</title>
+    <title>Tags on CyanoHibiki-genesis</title>
     <link>//localhost:1313/tags/</link>
-    <description>Recent content in Tags on Cyano-genesis</description>
+    <description>Recent content in Tags on CyanoHibiki-genesis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2024 Cyano</copyright>
+    <copyright>© 2024 Cyano Hibiki</copyright>
     <lastBuildDate>Thu, 10 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Example</title>
-      <link>//localhost:1313/tags/example/</link>
+      <title>About</title>
+      <link>//localhost:1313/tags/about/</link>
       <pubDate>Thu, 10 Oct 2024 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/example/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Tag</title>
-      <link>//localhost:1313/tags/tag/</link>
-      <pubDate>Thu, 10 Oct 2024 00:00:00 +0000</pubDate>
-      
-      <guid>//localhost:1313/tags/tag/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Ipsum</title>
-      <link>//localhost:1313/tags/ipsum/</link>
-      <pubDate>Sun, 04 Sep 2022 00:00:00 +0000</pubDate>
-      
-      <guid>//localhost:1313/tags/ipsum/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Lorem</title>
-      <link>//localhost:1313/tags/lorem/</link>
-      <pubDate>Sun, 04 Sep 2022 00:00:00 +0000</pubDate>
-      
-      <guid>//localhost:1313/tags/lorem/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Post</title>
-      <link>//localhost:1313/tags/post/</link>
-      <pubDate>Sun, 04 Sep 2022 00:00:00 +0000</pubDate>
-      
-      <guid>//localhost:1313/tags/post/</guid>
+      <guid>//localhost:1313/tags/about/</guid>
       <description></description>
       
     </item>

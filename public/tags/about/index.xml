@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>About on Cyano-genesis</title>
+    <title>About on CyanoHibiki-genesis</title>
     <link>//localhost:1313/tags/about/</link>
-    <description>Recent content in About on Cyano-genesis</description>
+    <description>Recent content in About on CyanoHibiki-genesis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2024 Cyano</copyright>
+    <copyright>© 2024 Cyano Hibiki</copyright>
     <lastBuildDate>Thu, 10 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/about/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>//localhost:1313/posts/1728584668744-about-me/</link>
+      <link>//localhost:1313/about/</link>
       <pubDate>Thu, 10 Oct 2024 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/posts/1728584668744-about-me/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;m Cyano, a Ph.D. student by day. During my free time I do 3D printing, make 3D models, play video games, and watch Anime.&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/posts/1728584668744-about-me/featured.png" />
+      <guid>//localhost:1313/about/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m Cyano, a Ph.D. student by day. During my free time I do 3D printing, make 3D models, experiment with my home lab server, play video games, and watch Anime.&lt;/p&gt;</description>
+      
     </item>
     
   </channel>
