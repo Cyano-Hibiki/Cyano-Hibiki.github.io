@@ -1,7 +1,7 @@
 ---
 title: "About"
 date: 2024-10-10
-draft: false
+draft: true
 description: "A brief introduction to myself."
 tags: ["about"]
 menu: main
