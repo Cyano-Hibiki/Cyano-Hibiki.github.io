@@ -3,34 +3,34 @@ name = "Blog"
 pageRef = "posts"
 weight = 10
 
-[[main]]
-name = "Tags"
-pageRef = "tags"
-weight = 20
+# [[main]]
+# name = "Tags"
+# pageRef = "tags"
+# weight = 20
 
-[[main]]
-identifier = "web"
-pre = "link"
-url = "https://nunocoracao.github.io/blowfish/"
-weight = 40
+# [[main]]
+# identifier = "web"
+# pre = "link"
+# url = "https://nunocoracao.github.io/blowfish/"
+# weight = 40
 
 [[main]]
 identifier = "github"
 pre = "github"
-url = "https://github.com/nunocoracao/blowfish"
+url = "https://github.com/Cyano-Hibiki"
 weight = 50
 
-[[main]]
-identifier = "twitter"
-pre = "twitter"
-url = "https://twitter.com/burufugu"
-weight = 60
+# [[main]]
+# identifier = "twitter"
+# pre = "twitter"
+# url = "https://twitter.com/burufugu"
+# weight = 60
 
 [[main]]
-name = "About"
-pageRef = "about"
-identifier = "1335qE6ZYu"
-weight = 9999
+identifier = "ko-fi"
+pre = "ko-fi"
+url = "https://ko-fi.com/cyano32288"
+weight = 60
 
 [[footer]]
 name = "Tags"
